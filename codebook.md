@@ -1,4 +1,4 @@
-tidy.data.set
+tidy data set
 -------------
 
 **Usage**
@@ -14,11 +14,11 @@ subject
 
 activity
 -a factor with levels 
-	-WALKING
-	-WALKING_UPSTARIS
-	-WALKING_DOWNSTAIRS
-	-SITTING
-	-STANDING LAYING
+	* WALKING
+	* WALKING_UPSTARIS
+	* WALKING_DOWNSTAIRS
+	* SITTING
+	* STANDING LAYING
 
 tBodyAcc-mean()-X
 -a numeric vector
