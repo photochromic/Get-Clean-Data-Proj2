@@ -1,5 +1,5 @@
-tidy data set
--------------
+tidy data set codebook
+----------------------
 
 **Usage**
 
@@ -8,6 +8,8 @@ data("tidy.data.set")
 **Format**
 
 A data frame with 180 observations on the following 88 variables.
+
+**Variables**
 
 subject
 -a numeric vector
