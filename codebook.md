@@ -14,6 +14,7 @@ subject
 
 activity
 -a factor with levels 
+
 	* WALKING
 	* WALKING_UPSTARIS
 	* WALKING_DOWNSTAIRS
